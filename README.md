@@ -14,4 +14,5 @@
 
 1. Install Python
 2. Create a virtual environment (`mkvirtualenv`)
-3. `pip install jupyter`, `Pandas` and `BeautifulSoup`
+3. `pip install jupyter`
+4. `pip install` Pandas, glob, zipfile and xml (if needed)
